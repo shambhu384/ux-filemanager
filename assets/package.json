@@ -11,10 +11,7 @@
         "main": "dist/controller.js",
         "webpackMode": "eager",
         "fetch": "eager",
-        "enabled": true,
-        "autoimport": {
-          "@mezcalito/ux-filemanager/dist/style.min.css": true
-        }
+        "enabled": true
       }
     },
     "importmap": {
