@@ -16,7 +16,7 @@
     },
     "importmap": {
       "@hotwired/stimulus": "^3.0.0",
-      "@mezcalito/ux-filemanager": "path:%PACKAGE%/dist/controller.js"
+      "@shambhu384/ux-filemanager": "path:%PACKAGE%/dist/controller.js"
     }
   },
   "peerDependencies": {
