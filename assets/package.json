@@ -1,5 +1,5 @@
 {
-  "name": "@mezcalito/ux-filemanager",
+  "name": "@shambhu384/ux-filemanager",
   "description": "File manager for Symfony application",
   "main": "dist/controller.js",
   "types": "dist/controller.d.ts",
